@@ -1,0 +1,6 @@
+﻿TERMUXU HER KURDUGUNUZDA PACKETLER VE TOOLLAR ILE UGRASMAKTAN YORULDUNUZ MU ????
+ISTE SIZE MUKEMMEL BIR COZUM
+
+
+chmod +x termux-installer.py
+python termux-installer.py
